@@ -4,11 +4,11 @@ for (let i = 1; i <= 20; i++) {
 }
 
 const messages = [
-  'I Love You ❤️',
-  'My Love 🎁',
-  'Kudo Rinne 🥰',
-  'Matsumoto Reiyo 🍀',
-  '松本麗世 ✨'
+  'Anh Yêu Em',
+  'Forever Love Hoàng Bảo Ngọc',
+  'Nam Yêu Em ❤️',
+  'Yêu Ngọc Thốii 😤',
+  'Ngọc Em Bé 🥺'
 ];
 
 function showFallingMessage() {
